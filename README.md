@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Marco</h1>
 <h3 align="center">I'm a Software Engineer and student at University of Cagliari</h3>
 
-- 🌱 I’m currently learning **Artificial Intelligence**
+- 🌱 I’m currently learning: **AI, Algorithms, ML**
 
-- 📫 How to reach me **pintore0000@gmail.com**
+- 📫 How to reach me: **pintore0000@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
